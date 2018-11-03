@@ -1,3 +1,6 @@
+# .mvn directory
+.mvn/
+
 # ignore all target folders
 target/
 
